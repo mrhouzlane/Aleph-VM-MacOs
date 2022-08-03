@@ -7,7 +7,8 @@
 - Install Vagrant & Virtual Box 
 
 1.  Run : ``` Vagrant up ``` | (``` destroy ```  to stop the process & don't forget to remove box list ) 
-2.  In your Vagrantfile do :
+
+2.  In your Vagrantfile add :
 
 ```   config.vm.provision "shell", path: "bootstrap.sh" ```
 
