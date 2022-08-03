@@ -2,7 +2,7 @@
 
 
 
-### Vagrant : 
+### Setup
 
 - Install Vagrant & Virtual Box 
 
