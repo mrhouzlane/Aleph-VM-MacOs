@@ -1,8 +1,13 @@
 # VM-Local-MacOs
 
+## Virtual environment :
+
+1. Run : ``` conda create --name <NAME_OF_ENV> ``` 
+
+2. Run : ``` conda activate || deactivate ``` 
 
 
-### Setup
+## Setup
 
 - Install Vagrant & Virtual Box 
 
