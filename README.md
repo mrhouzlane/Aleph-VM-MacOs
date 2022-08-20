@@ -4,7 +4,7 @@
 
 1. Run : ``` conda create --name <NAME_OF_ENV> ``` 
 
-2. Run : ``` conda activate || deactivate ``` 
+2. Run : ``` conda activate <NAME_OF_ENV> || deactivate <NAME_OF_ENV> ``` 
 
 
 ## Setup
