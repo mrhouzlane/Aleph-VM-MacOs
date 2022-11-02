@@ -23,7 +23,7 @@
 
 sudo apt-get install -y python3-pip libsecp256k1-dev squashfs-tools
 
-pip3 install uvicorn[standard] aleph-client fastapi eth_account
+pip3 install uvicorn'[standard]' aleph-client fastapi eth_account
 
 ``` 
 
